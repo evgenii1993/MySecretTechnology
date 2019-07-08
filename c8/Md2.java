@@ -7,7 +7,7 @@ class A {
 		System.out.print("A's m2, ");
 	}
 	void m3() {
-		System.out.print("A's m3, ");
+		System.out.print("A's m3, 1");
 	}
 }
 
